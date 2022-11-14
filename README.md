@@ -10,7 +10,8 @@
 
 还是行不通、、、
 
-所以: [pdf下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.pdf)
+[pdf下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.pdf)
+
 [epub下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.epub)
 
 ## 一个怎样的故事
