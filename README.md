@@ -67,9 +67,11 @@
 
 从一无所有，到应有尽有，
 
-他们掌控时局，世袭罔替。
+艰苦奋斗，世袭罔替。
 
-## 关于人物/关系
+*** 
+
+## 人物/关系
 
 ![人物](https://github.com/Hezhong123/Everything-Without-End/blob/main/role.png)
 
