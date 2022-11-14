@@ -22,6 +22,7 @@
 ***
 
 ![苦瓜](https://github.com/Hezhong123/Everything-Without-End/blob/main/kugua.png)
+
 如果你了解昼夜不停两班倒的电子厂， 就明白小说开篇的第一句：
 
 【这里逼仄昏暗，没有未来】
@@ -61,6 +62,7 @@
 
 ***
 ![苏铁](https://github.com/Hezhong123/Everything-Without-End/blob/main/su.png)
+
 一代人，一群人，
 
 从一无所有，到应有尽有，
@@ -68,6 +70,7 @@
 他们掌控时局，世袭罔替。
 
 ## 关于人物/关系
+
 ![人物](https://github.com/Hezhong123/Everything-Without-End/blob/main/role.png)
 
 
