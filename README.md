@@ -2,14 +2,16 @@
 
 小弟动手写了部纪实类小说。
 
-可能是我写的太烂，投递出去才没人任何水花。
+可能是我写的太烂，投递出去才没有任何水花。
 
-后来，我本想在b站连载，可更新到第三章就审核不同过。
+后来，我本想在b站连载，可更新到第三章就审核不通过。
 
 通过Google，Apple商店发行海外的方案也试了，
 
 还是行不通、、、
 
+所以: [pdf下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.pdf)
+[epub下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.epub)
 
 ## 一个怎样的故事
 
