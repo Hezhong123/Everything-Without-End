@@ -15,6 +15,6 @@
 故事很短，准确的说，只有100天。
 
 进厂打工、写字楼上班、退休养老三条完全不一样的轨迹交织在一起。
-
+![](https://github.com/Hezhong123/Everything-Without-End/blob/main/story.png)
 
 
