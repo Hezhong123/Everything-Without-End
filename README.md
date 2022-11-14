@@ -10,7 +10,7 @@
 
 还是行不通。
 
-所以只能github开源和大家分享:
+因此只能在github开源和大家分享:
 
 [pdf下载](https://github.com/Hezhong123/Everything-Without-End/raw/main/%E4%BC%A4%E4%BA%BA%E5%BF%83%E8%82%9D.pdf)
 
